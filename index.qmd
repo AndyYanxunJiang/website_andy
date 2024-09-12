@@ -1,5 +1,5 @@
 ---
-title: About
+title: Welcome to my page
 ---
 
-Hi, my name is Andy Jiang. I am a uoft student studying statistics and economics.
+Hi, my name is Andy Jiang. I am a University of Toronto student studying statistics and economics.
